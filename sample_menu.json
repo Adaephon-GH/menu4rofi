@@ -1,0 +1,7 @@
+{[
+  {"name": "XClock", "command": "xclock"},
+  {"name": "Xev", "command": "xev"},
+  {"name": "terminals", "submenu": [
+    {"name": "xterm": "command": "xterm"},
+    {"name": "termite": "command": "termite"}]}
+]}
